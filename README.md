@@ -1,2 +1,2 @@
 # MVP-Resources
-Repo for all MVP resources, to keep them separate from the code.  
+Repo for all dev4x visual resources, to keep them separate from the code.  
